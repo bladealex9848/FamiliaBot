@@ -71,7 +71,7 @@ Estoy aquí para brindarte información y apoyo en temas de derecho de familia c
 
 **¡No dudes en consultarme cualquier inquietud sobre derecho de familia en Colombia!**
 
-*Recuerda: Proporciono información general basada en mi conocimiento actual, que incluye el Código Civil Colombiano, la Ley 1564 de 2012, la Ley 1098 de 2006, la Ley 2388 de 2024, el Manual de Procesos de Familia de la Universidad Externado de Colombia, jurisprudencia relevante de la Corte Suprema de Justicia, y la Ley 1996 de 2019. Para asesoría legal específica para tu caso, consulta a un abogado.*
+*Recuerda: Proporciono información general basada en mi conocimiento actual, que incluye el Código Civil Colombiano, la Ley 1564 de 2012, la Ley 1098 de 2006, la Ley 2388 de 2024, jurisprudencia relevante de la Corte Suprema de Justicia, y la Ley 1996 de 2019. Para asesoría legal específica para tu caso, consulta a un abogado.*
 """)
 
 # Inicialización de variables de estado de sesión
