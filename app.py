@@ -51,7 +51,6 @@ client = openai
 st.title("Bienvenido a FamiliaBot 👨‍👩‍👧‍👦")
 
 st.write("""
-        [![ver código fuente](https://img.shields.io/badge/Repositorio%20GitHub-gris?logo=github)](https://github.com/bladealex9848/FamiliaBot)
         ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Ffamiliabot.streamlit.app&label=Visitantes&labelColor=%235d5d5d&countColor=%231e7ebf&style=flat)
         """)
 
