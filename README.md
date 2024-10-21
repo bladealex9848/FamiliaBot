@@ -3,7 +3,7 @@
 # FamiliaBot 👨‍👩‍👧‍👦
 
 ## Descripción
-FamiliaBot es un agente de IA especializado en derecho de familia en Colombia. Su base de conocimiento incluye el Código Civil Colombiano, la Ley 1564 de 2012 (Código General del Proceso), la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia), la Ley 2388 de 2024, el Manual de Procesos de Familia de la Universidad Externado de Colombia, jurisprudencia relevante de la Corte Suprema de Justicia, y la Ley 1996 de 2019.
+FamiliaBot es un agente de IA especializado en derecho de familia en Colombia. Su base de conocimiento incluye el Código Civil Colombiano, la Ley 1564 de 2012 (Código General del Proceso), la Ley 1098 de 2006 (Código de la Infancia y la Adolescencia), la Ley 2388 de 2024, jurisprudencia relevante de la Corte Suprema de Justicia, y la Ley 1996 de 2019.
 
 ## Funcionalidades
 * Brinda información sobre los diferentes tipos de familias, matrimonio, divorcio, uniones maritales de hecho, custodia de menores, alimentos, patria potestad, sucesiones, y otros temas relacionados con el derecho de familia.
